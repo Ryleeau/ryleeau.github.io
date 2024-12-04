@@ -8,15 +8,18 @@ published: true
 labels:
   - Design Patterns
   - Problem Solving
+  - Software Development
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Having an Architect
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Imagine being tasked with building a house. Growing up as a daughter of a carpenter, I've watched and helped with the building of around 10 houses. The foundation must be level and sturdy, the plumbing and water ways functional and efficient, and the layout optimized for accessibility. Without guidance, there might be a leaky roof or creaky floors. This is where being and achitect and having a blueprint comes in handy: proven templates for solving common design problems. In the realm of software development, design patterns are the blueprints.
 
-## What’s a smart question?
+Design patterns provide structured solutions to recurring issues in software design. These are not lines of code to be copied and pasted, but rather conceptual frameworks that developers can use to adapt to their needs. Like the idea of a house floor plan, this allows for software to be flexible, scalable, and easy to maintain. 
+
+## Being the Architect
 
 Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
