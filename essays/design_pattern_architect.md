@@ -11,7 +11,7 @@ labels:
   - Software Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/man-are-working-as-architecture-construction-company_81761-404.png"> 
 
 ## Having an Architect
 
