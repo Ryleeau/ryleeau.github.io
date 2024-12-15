@@ -19,7 +19,7 @@ AI, or Artificial Intelligence has transformed learning, enriching the student l
 
 ## Personal Experience with AI
 
-Experience WODs: For the E20 Experience Functional Programming 3, I asked ChatGPT "Write a function using array functional methods that [(https://courses.ics.hawaii.edu/ics314f24/morea/typescript-3/experience-functional-programming-3.html)](pasted two function explanations)." The result was similar to what I needed except for certain syntax erros I needed to fix.
+Experience WODs: For the E20 Experience Functional Programming 3, I asked ChatGPT "Write a function using array functional methods that [pasted two function explanations](https://courses.ics.hawaii.edu/ics314f24/morea/typescript-3/experience-functional-programming-3.html)." The result was similar to what I needed except for certain syntax erros I needed to fix.
 
 In-class Practice WODs: I pasted the instructions into ChatGPT to see what it would give me. Most times it would result in a lot of syntax errors.
 
