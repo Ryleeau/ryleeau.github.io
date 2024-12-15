@@ -19,27 +19,28 @@ AI, or Artificial Intelligence has transformed learning, enriching the student l
 
 ## Personal Experience with AI
 
-In one of my classes a year ago, I was tasked with creating a simple, centralized logging system that all parts of the application could access. I chose to implement the Singleton pattern where one instance of the logger exists across the application. 
+Experience WODs: For the E20 Experience Functional Programming 3, I asked ChatGPT "Write a function using array functional methods that [assignment link](pasted two function explanations)." The result was similar to what I needed except for certain syntax erros I needed to fix.
 
-```
-class Logger:
-  _instance = None
+In-class Practice WODs: I pasted the instructions into ChatGPT to see what it would give me. Most times it would result in a lot of syntax errors.
 
-  def new(cls,*args,**kwargs):
-    if not cls._instance:
-      cls._instance=super(Logger,cls).new(cls,*args,**kwargs)
-    return cls._instance
+In-class WODs: Similar to the In-class practice WODs, I pasted the instructions into ChatGPT to see what it would give me. Most times it would result in a lot of syntax errors. I noticed that AI most definitely helped with the structure of the code, but I needed to generally know the skills in order to fix the errors.
 
-  def log(self,message):
-    print(f"[LOG]: {message}")
+Essays: I chose not to use AI for essays since I thought essays would make more sense if it came from me since most of the essays were tailored to personal experience.
 
-logger1 = Logger()
-logger2 = Logger()
+Final project: I used ChatGPT to provide me ideas of the mockup pages given some guidelines I liked from the web but weren't quite what I wanted. I would not have been able to produce the mockups I had in mind if it wasn't for AI since the alternative was just creating the pages without the mockups.
 
-print(logger1 is logger2) #should output True
-```
+Learning a concept / tutorial: I used ChatGPT by asking "provide me an example of x concept." It definitely helped me understand the general idea and steps to the concept. However, I noticed that sometimes ChatGPT would give me a wrong answer or a wrong step, so I had to make sure I referenced with website examples.
 
-This system is so organized and predictable and even better, easier to read.
+Answering a question in class or in Discord: I did not use AI for this since I feel that I am good at asking questions and being articulate in my issues. I often provide images of issues when I needed help from a teacher as well.
+
+Asking or answering a smart-question: I did not use AI for this since I had little need to only communicate through discord or online. When I had an issue with ruby in the github configuration for the professional portfolio, I met with my professor to get this figured out.
+
+Coding example e.g. “give an example of using Underscore .pluck”
+Explaining code
+Writing code
+Documenting code
+Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+Other uses in ICS 314 not listed
 
 ## Impact on Learning and Understanding
 
