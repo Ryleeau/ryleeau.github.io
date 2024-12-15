@@ -69,4 +69,6 @@ AI is absolutely essential in the future of software engineering education. The 
 
 ## Conclusion
 
+The use of AI in software engineering courses has had an impact on learning and development. AI tools like ChatGPT have enhanced my ability to quickly understand concepts, solve problems, and optimize my workflow. From assisting with coding tasks and generating ideas for mockups to providing explanations of concepts, AI has proven to be a powerful companion. However, the experience has come with challenges such as the need to evaluate AI's outputs due to occasional inaccuracies.
 
+Ai has served as a bridge between academic learning and real-world software engineering practices. Its ability to automate repetitive tasks and provide informed feedback showcases the tools and processes used in professional environments. The integrations has not only enriched my technical skills but also prepared me to navigate the evolving demands of the software engineering field. A recommendation to improve the integration of AI in future courses is to incorporate AI education into the curriculum on how to effectively use AI tools. Students should learn to guide AI inputs, evaluate outputs, and combine AI assistance with knowledge.
