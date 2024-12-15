@@ -53,14 +53,20 @@ The incorporation of AI has definitely influenced my learning experience. I am a
 
 ## Practical Applications
 
-
+A practical application of AI in the real world is Netflix's content recommendations. This content recommendation suggests movies and TV shows that are tailored to each user based on data such as watch history, ratings, and user behavior. This algorithm continuously learns from the user interacting with Netflix, adjusting recommendations in real-time. This definitely addresses the software engineering challenge of repetitive tasks that are now automated.
 
 ## Challenges and Opportunities
 
+I have encountered a challenge with AI where it is not always right. AI pulls information it has available and this information that is fed into AI is not always correct. The AI does not always have a filter for what is "correct" in the real world other than what it is told. Perhaps a potential opportunity for further integration of AI in software engineering education could be a more tailored lesson in how to use AI. For example, knowing that AI is not always right and learning how to effectively guide AI is the basis of AI usage. Students need to learn to help AI help you.
+
 ## Comparative Analysis
+
+Traditional teaching methods and AI-enhanced approaches in the context of software engineering education are vastly different. Traditional teaching methods are very basic understandings of code, are time consuming and inefficient, and has a steep learning curve. However, it does result in students with a deeper understanding of how code runs and how to fix bugs yourself. On the other hand, AI-enhanced approaches are with the times and lead to exponential learning progress. However, there is the risk of students becoming AI dependent and unable to understand code without the help of AI resulting in lower proficiency in the coding skill. Traditional methods are often less engaging compared to AI-enhanced methods. When used right, both traditional methods and AI-enhancing methods build knowledge retention and practical skill development. A blend of both is the most optimal learning tool instead of one over the other.
 
 ## Future Considerations
 
+AI is absolutely essential in the future of software engineering education. The real world uses AI, so if we never learn how to effectively use AI, we will forever be a step behind and need to catch up. Learning how to use AI ethically and correctly in school is the set up of how the next generation will use AI in the software engineering working field. It is important to note that there are challenges with AI potentially resulting in low competency with basic software engineering skills compared to the last generation. There are going to be constant areas of improvement in learning how to teach AI usage in software engineering, but we are making positive progress.
+
 ## Conclusion
 
-Design patterns are the architectural blueprints of software engineering, guiding developers to efficient and usable systems. Just as architects design buildings with structural integrity, developers use design patterns to construct code that is flexible, scalable, and easy to maintain. They bridge the gap between abstract concepts and practical solutions, transforming potential chaos into orderly systems.
+
