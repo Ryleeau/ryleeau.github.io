@@ -10,15 +10,14 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/man-are-working-as-architecture-construction-company_81761-404.png"> 
+<img width="300px" class="rounded float-start pe-4" src="../img/ai.png"> 
 
-## Having an Architect
+## Introduction
 
-Imagine being tasked with building a house. Growing up as a daughter of a carpenter, I've watched and helped with the building of around 10 houses. The foundation must be level and sturdy, the plumbing and water ways functional and efficient, and the layout optimized for accessibility. Without guidance, there might be a leaky roof or creaky floors. This is where being and achitect and having a blueprint comes in handy: proven templates for solving common design problems. In the realm of software development, design patterns are the blueprints.
+AI, or Artificial Intelligence has transformed learning, enriching the student learning experience by providing tools and techniques. These tools and techniques optimize time and bridge the gap between the learning and the working sides of software engineering. In software engineering, AI automates repetitive tasks, in that it provides intelligent analysis that contributes to a software engineer's productivity and creativity. Some AI concepts and tools include machine learning, automated testing, and collaboration tools like Liveshare in vscode. I personally use ChatGPT to enhance my software engineering learning.
 
-Design patterns provide structured solutions to recurring issues in software design. These are not lines of code to be copied and pasted, but rather conceptual frameworks that developers can use to adapt to their needs. Like the idea of a house floor plan, this allows for software to be flexible, scalable, and easy to maintain. 
 
-## Being the Architect
+## Personal Experience with AI
 
 In one of my classes a year ago, I was tasked with creating a simple, centralized logging system that all parts of the application could access. I chose to implement the Singleton pattern where one instance of the logger exists across the application. 
 
@@ -41,6 +40,16 @@ print(logger1 is logger2) #should output True
 ```
 
 This system is so organized and predictable and even better, easier to read.
+
+## Impact on Learning and Understanding
+
+## Practical Applications
+
+## Challenges and Opportunities
+
+## Comparative Analysis
+
+## Future Considerations
 
 ## Conclusion
 
